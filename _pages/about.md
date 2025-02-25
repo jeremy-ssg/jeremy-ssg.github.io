@@ -42,7 +42,7 @@ Hanzhang Wang;　Xuetao Zhang;　Yisha Liu;　**Gang Sun**;　Xuebo Zhang;　Yan
 Shuyi Guo;　Xuetao Zhang;　Hanzhang Wang;　**Gang Sun**;　Yisha Liu;　Yan Zhuang．A Multi-UAV Monitoring and Search Strategy Based on Multi-Agent Reinforcement Learning," 2024 IEEE International Conference on Unmanned Systems (ICUS), Nanjing, China, 2024．
 # 🎖 Honors and Awards
 - *2025.01* Outstanding Master's Thesis of Liaoning Province
-- *2023.08* Champion of the Unmanned Collaborative Systems Track at the 25th China Robotics and Artificial Intelligence Competition National Finals
+- *2023.08* Champion of the Unmanned Collaborative Systems Track at the 25th China Robotics and Artificial Intelligence Competition National．
 - *2023.08* Second Prize at the 1st "Yixian Warriors Cup" International Robotics Invitational Tournament
 - *2021.10* First Prize at the 3rd Liaoning Province Artificial Intelligence Application Competition
 - *2024.08* Third Place in the Laser Season of the 2024 China SLAM Technology Challenge
