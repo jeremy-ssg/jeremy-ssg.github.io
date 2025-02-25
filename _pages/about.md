@@ -44,5 +44,3 @@ Junlong Jiang;　Xuetao Zhang;　**Gang Sun**;　Yisha Liu;　Xuebo Zhang;　Yan
 - *2021.09 - 2024.06*, Master, Dalian University of Technology.  
 - *2017.09 - 2021.06*, Undergraduate, Dalian University of Technology.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
