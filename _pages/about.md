@@ -36,8 +36,15 @@ Hekai Yao, Xuetao Zhang*,　**Gang Sun**, Yisha Liu, Xuebo Zhang, Yan Zhuang, �
 Junlong Jiang;　Xuetao Zhang;　**Gang Sun**;　Yisha Liu;　Xuebo Zhang;　Yan Zhuang, CLID-SLAM: A Coupled LiDAR-Inertial Neural Implicit Dense SLAM With Region-Specific SDF Estimation, in IEEE Robotics and Automation Letters．
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.01* Outstanding Master's Thesis of Liaoning Province
+- *2023.08* Champion of the Unmanned Collaborative Systems Track at the 25th China Robotics and Artificial Intelligence Competition National Finals
+- *2023.08* Second Prize at the 1st "Yixian Warriors Cup" International Robotics Invitational Tournament
+- *2021.10* First Prize at the 3rd Liaoning Province Artificial Intelligence Application Competition
+- *2024.08* Third Place in the Laser Season of the 2024 China SLAM Technology Challenge
+- *2019.12*　National Second Prize in the Higher Education Cup National College Student Mathematical Modeling Competition
+- *2020.03* Honorable Mention in the American Mathematical Modeling Competition
+- *2024.06* Outstanding Master’s Graduate of Liaoning Province
+- *2021.06* / 2024.06 "Outstanding Graduate" and "Outstanding Postgraduate" of Dalian University of Technology
 
 # 📖 Educations
 - *2024.09 - now*, Doctor of Engineering, Dalian University of Technology.  
