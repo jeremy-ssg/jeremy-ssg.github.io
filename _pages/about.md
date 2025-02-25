@@ -32,6 +32,9 @@ Sun Gang received the B.Eng. degree in Automation from Dalian University of Tech
 
 **Gang Sun**; Xuetao Zhang; Yisha Liu; Xuebo Zhang; Yan Zhuang．Topology-Guided Perception-Aware Receding Horizon Trajectory Generation for UAVs, 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, MI, USA, 2023.
 
+Hekai Yao, Xuetao Zhang*,　**Gang Sun**, Yisha Liu, Xuebo Zhang, Yan Zhuang, ”MUP-LIO: Mapping Uncertainty-aware Point-wise Lidar Inertial Odometry.” 2024 IEEE/RSJ International Conference on Intelligent Robots　and Systems (IROS), Abu Dhabi ,UAE, 2024.
+
+Junlong Jiang;　Xuetao Zhang;　**Gang Sun**;　Yisha Liu;　Xuebo Zhang;　Yan Zhuang, CLID-SLAM: A Coupled LiDAR-Inertial Neural Implicit Dense SLAM With Region-Specific SDF Estimation, in IEEE Robotics and Automation Letters．
 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
