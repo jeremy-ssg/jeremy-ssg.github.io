@@ -22,12 +22,11 @@ Sun Gang received the B.Eng. degree in Automation from Dalian University of Tech
 
 
 # 🔥 News
-- *2024.2*: &nbsp;🎉🎉 Ｏｎｅ　ｐａｐｅｒ　ｗａｓ　ａｃｃｅｐｔｅｄ　ｂｙ　ＩＥＥＥ　ＴＩＴＳ． 
+- *2024.2*: &nbsp;🎉🎉 One paper was acceptted by IEEE TITS.
 
 # 📝 Publications 
   
 **Gang Sun**; Xuetao Zhang; Yisha Liu; Xuebo Zhang; Yan Zhuang．Safety-Driven and Localization Uncertainty-Driven Perception-Aware Trajectory Planning for Quadrotor Unmanned Aerial Vehicles, in IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 8, pp. 8837-8848, Aug. 2024.
-
 
 
 **Gang Sun**; Xuetao Zhang; Yisha Liu; Xuebo Zhang; Yan Zhuang．Topology-Guided Perception-Aware Receding Horizon Trajectory Generation for UAVs, 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, MI, USA, 2023.
@@ -36,25 +35,14 @@ Hekai Yao, Xuetao Zhang*,　**Gang Sun**, Yisha Liu, Xuebo Zhang, Yan Zhuang, �
 
 Junlong Jiang;　Xuetao Zhang;　**Gang Sun**;　Yisha Liu;　Xuebo Zhang;　Yan Zhuang, CLID-SLAM: A Coupled LiDAR-Inertial Neural Implicit Dense SLAM With Region-Specific SDF Estimation, in IEEE Robotics and Automation Letters．
 
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.09 - now*, Doctor of Engineering, Dalian University of Technology.  
+- *2021.09 - 2024.06*, Master, Dalian University of Technology.  
+- *2017.09 - 2021.06*, Undergraduate, Dalian University of Technology.
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
