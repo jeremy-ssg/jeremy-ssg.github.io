@@ -29,10 +29,14 @@ Sun Gang received the B.Eng. degree in Automation from Dalian University of Tech
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+  
+"Safety-Driven and Localization Uncertainty-Driven Perception-Aware Trajectory Planning for Quadrotor Unmanned Aerial Vehicles," in IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 8, pp. 8837-8848, Aug. 2024.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Gang Sun**; Xuetao Zhang; Yisha Liu; Xuebo Zhang; Yan Zhuang
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Topology-Guided Perception-Aware Receding Horizon Trajectory Generation for UAVs," 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, MI, USA, 2023.
+
+**Gang Sun**; Xuetao Zhang; Yisha Liu; Hanzhang Wang; Xuebo Zhang; Yan Zhuang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
