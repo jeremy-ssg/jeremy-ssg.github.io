@@ -35,6 +35,11 @@ Hekai Yao, Xuetao Zhang*,　**Gang Sun**, Yisha Liu, Xuebo Zhang, Yan Zhuang, �
 
 Junlong Jiang;　Xuetao Zhang;　**Gang Sun**;　Yisha Liu;　Xuebo Zhang;　Yan Zhuang, CLID-SLAM: A Coupled LiDAR-Inertial Neural Implicit Dense SLAM With Region-Specific SDF Estimation, in IEEE Robotics and Automation Letters．
 
+**Gang Sun**; Xuetao Zhang; Yisha Liu; Xuebo Zhang; Yan Zhuang．Active Informative Receding Horizon Planning for Quadrotors, 2023 42nd Chinese Control Conference (CCC), Tianjin, China, 2023
+
+Hanzhang Wang;　Xuetao Zhang;　Yisha Liu;　**Gang Sun**;　Xuebo Zhang;　Yan Zhuang．PCDCT: Perception-Complementarity-Driven Collaborative Trajectory Generation for Vision-Based Aerial Tracking," in IEEE Transactions on Automation Science and Engineering．
+
+Shuyi Guo;　Xuetao Zhang;　Hanzhang Wang;　**Gang Sun**;　Yisha Liu;　Yan Zhuang．A Multi-UAV Monitoring and Search Strategy Based on Multi-Agent Reinforcement Learning," 2024 IEEE International Conference on Unmanned Systems (ICUS), Nanjing, China, 2024．
 # 🎖 Honors and Awards
 - *2025.01* Outstanding Master's Thesis of Liaoning Province
 - *2023.08* Champion of the Unmanned Collaborative Systems Track at the 25th China Robotics and Artificial Intelligence Competition National Finals
