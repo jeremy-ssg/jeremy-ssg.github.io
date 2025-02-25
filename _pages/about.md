@@ -26,13 +26,13 @@ Sun Gang received the B.Eng. degree in Automation from Dalian University of Tech
 
 # 📝 Publications 
   
-"Safety-Driven and Localization Uncertainty-Driven Perception-Aware Trajectory Planning for Quadrotor Unmanned Aerial Vehicles," in IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 8, pp. 8837-8848, Aug. 2024.
+**Gang Sun**; Xuetao Zhang; Yisha Liu; Xuebo Zhang; Yan Zhuang．Safety-Driven and Localization Uncertainty-Driven Perception-Aware Trajectory Planning for Quadrotor Unmanned Aerial Vehicles, in IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 8, pp. 8837-8848, Aug. 2024.
 
-**Gang Sun**; Xuetao Zhang; Yisha Liu; Xuebo Zhang; Yan Zhuang
 
-Topology-Guided Perception-Aware Receding Horizon Trajectory Generation for UAVs," 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, MI, USA, 2023.
 
-**Gang Sun**; Xuetao Zhang; Yisha Liu; Hanzhang Wang; Xuebo Zhang; Yan Zhuang
+**Gang Sun**; Xuetao Zhang; Yisha Liu; Xuebo Zhang; Yan Zhuang．Topology-Guided Perception-Aware Receding Horizon Trajectory Generation for UAVs, 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, MI, USA, 2023.
+
+
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
