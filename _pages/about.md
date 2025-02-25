@@ -17,13 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Sun Gang received the B.Eng. degree in Automation from Dalian University of Technology, Dalian, China, in 2021. He received the M.Eng. degree in Control Science and Engineering from Dalian University of Technology. He is currently pursuing his Ph.D. in Artificial Intelligence with the Intelligent Robot Lab at Dalian University of Technology. My current research interests include motion planning, perception-aware planning.
+Sun Gang received the B.Eng. degree in Automation from Dalian University of Technology, Dalian, China, in 2021. I received the M.Eng. degree in Control Science and Engineering from Dalian University of Technology. I am currently pursuing a Doctor of Engineering in Artificial Intelligence with the Intelligent Robot Lab at Dalian University of Technology. My current research interests include motion planning, perception-aware planning.
 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.2*: &nbsp;🎉🎉 Ｏｎｅ　ｐａｐｅｒ　ｗａｓ　ａｃｃｅｐｔｅｄ　ｂｙ　ＩＥＥＥ　ＴＩＴＳ． 
 
 # 📝 Publications 
   
