@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Sun Gang"
-description              : "Sun Gang Personal Page. "
+title                    : "Gang Sun"
+description              : "Doctoral student in Artificial Intelligence at Dalian University of Technology. Research interests include aerial robotics, motion planning, and perception-aware planning."
 repository               : "jeremy-ssg/jeremy-ssg.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,13 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Sun Gang"
-  avatar           : "images/sungang.jpg"
-  bio              : "Dalian University of Technology"
+  name             : "Gang Sun"
+  avatar           : "images/gang-sun.png"
+  bio              : "Doctoral Student, Intelligent Robot Lab, Dalian University of Technology"
   location         : "Dalian, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    :
   email            : "sungang@mail.dlut.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "jeremy-ssg"
   google_plus      :
   keybase          :
   instagram        :
