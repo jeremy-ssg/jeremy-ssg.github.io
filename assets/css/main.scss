@@ -155,20 +155,21 @@ h1:before, .anchor:before {
 
 .featured-paper {
     display: grid;
-    grid-template-columns: minmax(230px, 42%) 1fr;
-    gap: 1.35rem;
+    grid-template-columns: minmax(180px, 32%) 1fr;
+    gap: 1.2rem;
     align-items: start;
-    padding: 1.25rem 0;
+    padding: 1.1rem 0;
     border-bottom: 1px solid $border-color;
 }
 
 .featured-paper__image {
     margin: 0;
+    max-width: 320px;
 
     img {
         display: block;
         width: 100%;
-        max-height: 260px;
+        max-height: 180px;
         object-fit: contain;
         background: #fff;
         border: 1px solid $border-color;
@@ -216,7 +217,11 @@ h1:before, .anchor:before {
         gap: .8rem;
     }
 
+    .featured-paper__image {
+        max-width: 100%;
+    }
+
     .featured-paper__image img {
-        max-height: none;
+        max-height: 220px;
     }
 }
