@@ -114,6 +114,12 @@ h1:before, .anchor:before {
     color: $darker-gray;
 }
 
+.language-switch {
+    margin: 0 0 1rem;
+    text-align: right;
+    font-size: .92em;
+}
+
 .research-tags {
     display: flex;
     flex-wrap: wrap;
