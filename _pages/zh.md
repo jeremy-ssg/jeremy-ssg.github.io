@@ -4,6 +4,7 @@ layout: default
 title: ""
 excerpt: ""
 author_profile: true
+author: gang_sun_zh
 ---
 
 <span class='anchor' id='about-me'></span>
