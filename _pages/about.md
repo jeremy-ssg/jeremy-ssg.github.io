@@ -112,21 +112,6 @@ My current research focuses on enabling unmanned aerial vehicles to plan reliabl
     <em>IEEE Transactions on Aerospace and Electronic Systems</em>, vol. 62, 2026.
   </li>
   <li>
-    <strong>G. Sun</strong>, X. Zhang, Y. Liu, X. Zhang, and Y. Zhuang,
-    "Safety-Driven and Localization Uncertainty-Driven Perception-Aware Trajectory Planning for Quadrotor Unmanned Aerial Vehicles,"
-    <em>IEEE Transactions on Intelligent Transportation Systems</em>, vol. 25, no. 8, 2024.
-  </li>
-  <li>
-    <strong>G. Sun</strong>, X. Zhang, Y. Liu, H. Wang, X. Zhang, and Y. Zhuang,
-    "Topology-Guided Perception-Aware Receding Horizon Trajectory Generation for UAVs,"
-    in Proc. <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2023.
-  </li>
-  <li>
-    <strong>G. Sun</strong>, X. Zhang, Y. Liu, H. Wang, and Y. Zhuang,
-    "Active Informative Receding Horizon Planning for Quadrotors,"
-    in Proc. <em>42nd Chinese Control Conference (CCC)</em>, 2023.
-  </li>
-  <li>
     X. Zhang, <strong>G. Sun</strong>, S. Lin, Y. Liu, X. Zhang, and Y. Zhuang,
     "TDHVIO: A Texture Richness Guided Double-Hybrid Visual-Inertial Odometry,"
     <em>IEEE Sensors Journal</em>, vol. 26, no. 10, 2026.
@@ -157,6 +142,11 @@ My current research focuses on enabling unmanned aerial vehicles to plan reliabl
     <em>IEEE Transactions on Automation Science and Engineering</em>, vol. 22, 2025.
   </li>
   <li>
+    <strong>G. Sun</strong>, X. Zhang, Y. Liu, X. Zhang, and Y. Zhuang,
+    "Safety-Driven and Localization Uncertainty-Driven Perception-Aware Trajectory Planning for Quadrotor Unmanned Aerial Vehicles,"
+    <em>IEEE Transactions on Intelligent Transportation Systems</em>, vol. 25, no. 8, 2024.
+  </li>
+  <li>
     H. Yao, X. Zhang, <strong>G. Sun</strong>, Y. Liu, X. Zhang, and Y. Zhuang,
     "MUP-LIO: Mapping Uncertainty-aware Point-wise Lidar Inertial Odometry,"
     in Proc. <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2024.
@@ -165,6 +155,16 @@ My current research focuses on enabling unmanned aerial vehicles to plan reliabl
     S. Guo, X. Zhang, H. Wang, <strong>G. Sun</strong>, Y. Liu, and Y. Zhuang,
     "A Multi-UAV Monitoring and Search Strategy Based on Multi-Agent Reinforcement Learning,"
     in Proc. <em>IEEE International Conference on Unmanned Systems (ICUS)</em>, 2024.
+  </li>
+  <li>
+    <strong>G. Sun</strong>, X. Zhang, Y. Liu, H. Wang, X. Zhang, and Y. Zhuang,
+    "Topology-Guided Perception-Aware Receding Horizon Trajectory Generation for UAVs,"
+    in Proc. <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2023.
+  </li>
+  <li>
+    <strong>G. Sun</strong>, X. Zhang, Y. Liu, H. Wang, and Y. Zhuang,
+    "Active Informative Receding Horizon Planning for Quadrotors,"
+    in Proc. <em>42nd Chinese Control Conference (CCC)</em>, 2023.
   </li>
 </ol>
 
