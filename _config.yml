@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Gang Sun"
-  avatar           : "images/gang-sun.png"
+  avatar           : "/images/gang-sun.png"
   bio              : "Doctoral Student, Intelligent Robot Lab, Dalian University of Technology"
   location         : "Dalian, China"
   employer         :
