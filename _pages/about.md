@@ -41,6 +41,7 @@ My current research focuses on enabling unmanned aerial vehicles to plan reliabl
 
 # News
 
+- *2025.11*: Selected for the CAST Young Talent Support Program for Doctoral Students.
 - *2024.02*: One paper was accepted by IEEE Transactions on Intelligent Transportation Systems.
 
 <span class='anchor' id='publications'></span>
@@ -170,6 +171,7 @@ My current research focuses on enabling unmanned aerial vehicles to plan reliabl
 # Honors and Awards
 
 <ul class="honor-list">
+  <li><strong>2025.11</strong> Selected for the CAST Young Talent Support Program for Doctoral Students.</li>
   <li><strong>2025.01</strong> Outstanding Master's Thesis of Liaoning Province.</li>
   <li><strong>2024.08</strong> Third Place in the Laser Season of the 2024 China SLAM Technology Challenge.</li>
   <li><strong>2024.06</strong> Outstanding Master's Graduate of Liaoning Province.</li>
